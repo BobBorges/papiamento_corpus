@@ -117,7 +117,7 @@ Authorship of the various texts has been indicated by all sources, but authorshi
 * LMnsr               161
 * Tamara-Quevedo       11
 
-![alt text](fugures/diario_txts_by_author_pie.png)
+![alt text](figures/diario_txts_by_author_pie.png)
 ![alt text](figures/diario_txts_by_year-author.png)
 
 **Bon Dia**
