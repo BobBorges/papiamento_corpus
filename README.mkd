@@ -1,0 +1,370 @@
+
+# A corpus of Papiamento
+
+Papiamento is a language spoken in the Dutch Caribbiean, primarily in Aruba, Bonaire, and Curaçao, as well as the Netherlands.
+
+## General description of the corpus
+
+Currently the corpus is made up of written Papiamento. Texts have been sourced from Papiamento news media and Wikipedia. Aruban Papiamento is the main target of the corpus, but some authors from Curaçao and/or Bonaire have contributed to the Wikipedia articles and the 24ora site. It isn't clear whether there are spoken differences among these varieties, but there are two standard orthographies, one used roughly on Aruba, the other on Curaçao and Bonaire.
+
+It is envisioned to add additional written sources from other genres as they become available, as well as a spoken language component.
+
+### Motivation
+
+The corpus shall provide a robust empirical basis for the study of a variety of aspect of Papiamento and its use.
+
+### Data collection
+
+Data was scraped from the web using `httrack` and `wget`. Html files from news sites were parsed and raw text extracted with custom Python scripts. The Papiamento Wiki dump was processed with a combination of `wikiextractor` and a custom python script.
+
+The majority of news sites follows a standard `.html` format, however, it happens that a rogue html tag causes the parsing to (partially) fail. I have removed some post-parsing empty files by automatically excluding text files < 200 bytes, but it's still possible that a handfull of files contain > 200 bytes of "whitespace" characters. These will be culled as they are found. Parsing errors may also be noticable in abrupt ending of texts, e.g. mid sentence. Parsing scripts will be improved in the future.
+### Summary statistics
+
+
+#### Sentences and words
+
+This section presents counts of sentences and words in the corpus. Sentences are delimited by punctuation (period and question mark); Sentences start as a new line or following the previous sentence, while sentences end with a punctuation mark and a whitespace. Words are delimited by white space.
+
+* Total number of texts in the corpus: 28913
+* Total number of sentences in the corpus: 448340
+* Total number of words in the corpus: 10287579
+* Average number of sentences per text in the corpus: 15.506519558676029
+* Average number of words per text in the corpus: 355.8115380624632
+* Average number of words per sentence: 22.94740152562787
+* Average length of word: 3.8872515098061458
+
+#### Contributions by year and source
+
+Currently, the 28913 texts in the corpus have been sourced from the news sites 24ora.com, bondia.com (B), and diario.aw (D), as well as the Papiamento language Wikipedia page. A complete list of texts can be found [here](file_list/README.mkd).
+
+Each source makes the following contribution in terms of number of texts to the corpus:
+
+* D        12169
+* B         8025
+* 24ora     7414
+* wiki      1305
+
+![alt text](../../Analysis/sum_stat/corpus_pie.png)
+
+Texts in the corpus were published between 2009 and 2019, but the distribution is fairly uneven.
+
+![alt text](../../Analysis/sum_stat/corpus_by_year-source.png)
+
+Further breakdown by source below.
+
+**Diario**
+
+* 2019    3771
+* 2018    3654
+* 2017    2823
+* 2009     564
+* 2010     291
+* 2016     218
+* 2012     192
+* 2011     184
+* 2014     167
+* 2013     159
+* 2015     146
+
+![alt text](../../Analysis/sum_stat/diario_txts_by_year_pie.png)
+
+**Bon Dia**
+
+* 2019    3283
+* 2017    1902
+* 2016    1613
+* 2018     770
+* 2015     441
+* 2013      16
+
+![alt text](../../Analysis/sum_stat/bondia_txts_by_year_pie.png)
+
+**24 Ora**
+
+* 2019    4224
+* 2018    2384
+* 2017     806
+
+![alt text](../../Analysis/sum_stat/24ora_txts_by_year_pie.png)
+
+**Wikipedia**
+
+* 2016    448
+* 2017    248
+* 2013    238
+* 2018    119
+* 2019    102
+* 2014     66
+* 2015     58
+* 2010     19
+* 2011      5
+* 2012      2
+
+![alt text](../../Analysis/sum_stat/wiki_txts_by_year_pie.png)
+
+#### Contributions by author
+
+Authorship of the various texts has been indicated by all sources, but authorship appears not to be consistently indicated in the sense that the news sites appear to have generic author that is frequntly used. Similarly, authorship of Wikipedia articles is indicated with usernames, many of which made few contributions while few authors made the majority of contributions. In any case, authorship as an explanatory variable should be used cautiously.
+
+**Diario**
+
+* Redaccion-36      10172
+* admin               590
+* Redaccion34         496
+* Redaccion-32        289
+* Glenn-Gonzaga       272
+* Michael-Carty       178
+* LMnsr               161
+* Tamara-Quevedo       11
+
+![alt text](../../Analysis/sum_stat/diario_txts_by_author_pie.png)
+![alt text](../../Analysis/sum_stat/diario_txts_by_year-author.png)
+
+**Bon Dia**
+
+* Soto               2549
+* sharina            2046
+* itsp124            2004
+* Juan-Luis-Pinto    1145
+* Luis-Villegas       269
+* Luis                 11
+* Nicola-Gonzalez       1
+
+![alt text](../../Analysis/sum_stat/bondia_txts_by_author_pie.png)
+![alt text](../../Analysis/sum_stat/bondia_txts_by_year-author.png)
+
+**24 Ora**
+
+* T                2679
+* Patrick          1590
+* L                1509
+* Jose              984
+* Marko             248
+* Elizette          230
+* Brian             109
+* Everlis-Tromp      37
+* Elton-Malone       21
+* Mark-Benson         6
+* Nelson              1
+
+![alt text](../../Analysis/sum_stat/24ora_txts_by_author_pie.png)
+![alt text](../../Analysis/sum_stat/24ora_txts_by_year-author.png)
+
+**Wikipedia**
+
+* DARIO-SEVERI                               243
+* Addbot                                     183
+* Montoya2002                                116
+* Discanto                                    94
+* Hypergio                                    62
+* CommonsDelinker                             57
+* Madjul                                      33
+* Legobot                                     25
+* Escarbot                                    23
+* Eleefecosta                                 22
+* Je7roi                                      22
+* Katxis                                      21
+* SurdusVII                                   18
+* GilliamJF                                   16
+* Kelifm2000                                  14
+* 200-189-92-124                              11
+* 148LENIN                                    10
+* OctraBot                                    10
+* M-R-B-                                      10
+* Wolverène                                   10
+* Rachmat04                                    9
+* Caribiana                                    8
+* YiFeiBot                                     7
+* 89-146-59-9                                  6
+* 2600-8800-3981-7A80-194E-E87A-2510-F53C      5
+* YANN92340                                    5
+* EmausBot                                     4
+* Wwikix                                       4
+* Faolin42                                     4
+* 187-2-96-125                                 4
+* 200-131-36-20                                4
+* ObaTango                                     4
+* Risto-hot-sir                                4
+* 2600-8800-3982-3EC0-194E-E87A-2510-F53C      4
+* Monicaua                                     4
+* TohaomgBot                                   4
+* 187-189-148-237                              4
+* Holder                                       4
+* Dwerg85                                      3
+* Chenspec                                     3
+* Eurohunter                                   3
+* Ajraddatz                                    3
+* Magioladitis                                 3
+* Leam                                         3
+* 190-248-92-26                                3
+* Wolfgang1212                                 3
+* 2600-8800-3980-2550-3D81-4D0F-F13E-AD7       3
+* Bluestone-Beagle                             3
+* DorKDandazx                                  3
+* Marcus-Cyron                                 2
+* CuraMed                                      2
+* X4v13r3                                      2
+* Coughdrops                                   2
+* Dempie-the-Biologist                         2
+* Jerzyjan1                                    2
+* MerlIwBot                                    2
+* Elfrayline                                   2
+* Alpinu                                       2
+* August-Dominus                               2
+* Trey314159                                   2
+* Marichoei                                    2
+* UrielAcosta                                  2
+* Schekinov-Alexey-Victorovich                 2
+* IStudLion                                    2
+* Clifford-de-Lannoy                           2
+* CharlesViBritannia                           2
+* 68-191-36-124                                2
+* Chabi                                        2
+* 201-229-82-5                                 2
+* オムジー                                         2
+* 179-234-52-139                               2
+* 87-231-104-28                                1
+* 2A02-A452-7B72-1-3435-C0E5-A06D-CD4          1
+* Xqbot                                        1
+* Niegodzisie                                  1
+* BNA-PS                                       1
+* 148-0-157-213                                1
+* 181-41-42-165                                1
+* 2800-A4-276A-1300-5010-75B2-6336-2B00        1
+* Jay-Jay-Marcus-Keize13                       1
+* João-Xavier                                  1
+* Tegel                                        1
+* 80-112-167-162                               1
+* 200-26-194-133                               1
+* 2600-8800-3982-3EC0-89AF-BD25-2943-2018      1
+* Savh                                         1
+* Sweater                                      1
+* Nabin-K--Sapkota                             1
+* Gerd-Eichmann                                1
+* 143-0-33-198                                 1
+* Lien-Shan                                    1
+* 2600-8800-3982-3EC0-44B0-D61B-670A-DED6      1
+* Jacek-Halicki                                1
+* Anagram16                                    1
+* Kprwiki                                      1
+* 37-124-215-176                               1
+* 92-110-18-35                                 1
+* 200-26-199-109                               1
+* Nokia-Daiji!!                                1
+* Alex-Nico                                    1
+* Humanoo                                      1
+* Wilfredor                                    1
+* EGaiMes                                      1
+* 2601-4A-C402-3CDB-D99B-667F-3628-E22F        1
+* 186-2-176-35                                 1
+* Checkpoint-inhibitor                         1
+* 190-112-230-189                              1
+* Aivin-G-                                     1
+* Friezer                                      1
+* 201-80-220-98                                1
+* Tholme                                       1
+* Fugitron                                     1
+* Neo-Jay                                      1
+* 92-6-178-154                                 1
+* 2800-810-425-94D4-AD98-5195-DF4C-201         1
+* 190-112-238-250                              1
+* 138-219-143-25                               1
+* Zazouazou                                    1
+* 190-41-58-103                                1
+* 2600-8800-3980-2550-9017-80D6-8A80-C643      1
+* RonnieV                                      1
+* Magnefl                                      1
+* 2001-8003-2219-0-4C3C-E80E-D5F3-BCD1         1
+* Labintatlo                                   1
+* 186-7-126-16                                 1
+* Mfvdlinden                                   1
+* 190-88-245-126                               1
+* Aybeg                                        1
+* Jfblanc                                      1
+* 201-229-98-34                                1
+* Kapeter77                                    1
+* TjBot                                        1
+* NicolasVidal2304                             1
+* Hasley                                       1
+* 195-88-255-13                                1
+* 1994thegoodolddays                           1
+* NayrB                                        1
+* Cheep                                        1
+* 186-2-183-16                                 1
+* 83-86-79-241                                 1
+* PCC7500                                      1
+* Najntisy                                     1
+* Kashmiri                                     1
+* 82-217-15-204                                1
+* Dyolf77                                      1
+* Born2bgratis                                 1
+* Millo-Awo                                    1
+* 81-140-248-115                               1
+* 161-0-96-118                                 1
+* 2eight                                       1
+* Stefanofogus                                 1
+* YAniceta                                     1
+* Bryan-Isaac-Donovan                          1
+* TDKR-Chicago-101                             1
+* Giovanni-Gijsbertha                          1
+* Chyah                                        1
+* 187-244-204-244                              1
+* Jarould                                      1
+* Jcb                                          1
+* KASDIKUNUKU123                               1
+* 134-19-180-166                               1
+* DarwIn                                       1
+* Weekalow                                     1
+* 201-229-27-162                               1
+* 165-225-32-89                                1
+* Monteaguilino1                               1
+* 2600-8800-3980-2550-FC10-9BCD-2675-82DB      1
+* 189-236-174-133                              1
+* 190-88-147-12                                1
+* 185-80-8-242                                 1
+* Iojhug                                       1
+* Rody~papwiki                                 1
+* 191-206-68-235                               1
+* 190-88-116-119                               1
+* 212-41-136-181                               1
+* KLBot2                                       1
+* Bette-Bosch                                  1
+* Kimur                                        1
+* Fry1989                                      1
+* 189-33-226-94                                1
+* Élisée-Adad                                  1
+* Dansudan1                                    1
+* 145-101-78-18                                1
+* Enmanuel                                     1
+* Saul                                         1
+* 2A01-E35-2FB9-18B0-E850-DAF2-A7D6-7E5A       1
+* 2A02-2788-55A-123-2DDB-DF5C-9D8-C693         1
+* 1-54-215-207                                 1
+* 216-93-213-106                               1
+* 216-152-175-34                               1
+* 201-229-7-197                                1
+* 190-96-89-74                                 1
+* Jacilason                                    1
+* 190-88-160-58                                1
+* JackieBot                                    1
+* Artufot                                      1
+* 190-88-101-198                               1
+* XXBlackburnXx                                1
+* 216-152-161-230                              1
+* Trauenbaum                                   1
+* 145-88-209-33                                1
+* 94-209-22-202                                1
+* 204-212-121-82                               1
+* 190-88-130-181                               1
+* El-Bien-y-El-Mal                             1
+* Chongkian                                    1
+* 24-251-24-100                                1
+* Reo-On                                       1
+* 31-205-95-27                                 1
+* Varlaam                                      1
+* 99-238-225-110                               1
+
+![alt text](../../Analysis/sum_stat/wiki_txts_by_author_pie.png)
+![alt text](../../Analysis/sum_stat/wiki_txts_by_year-author.png)
+
+
