@@ -44,11 +44,11 @@ Each source makes the following contribution in terms of number of texts to the 
 * 24ora     7414
 * wiki      1305
 
-![alt text](../../Analysis/sum_stat/corpus_pie.png)
+![alt text](../../Public/Public/figures/corpus_pie.png)
 
 Texts in the corpus were published between 2009 and 2019, but the distribution is fairly uneven.
 
-![alt text](../../Analysis/sum_stat/corpus_by_year-source.png)
+![alt text](../../Public/Public/figures/corpus_by_year-source.png)
 
 Further breakdown by source below.
 
@@ -66,7 +66,7 @@ Further breakdown by source below.
 * 2013     159
 * 2015     146
 
-![alt text](../../Analysis/sum_stat/diario_txts_by_year_pie.png)
+![alt text](../../Public/Public/figures/diario_txts_by_year_pie.png)
 
 **Bon Dia**
 
@@ -77,7 +77,7 @@ Further breakdown by source below.
 * 2015     441
 * 2013      16
 
-![alt text](../../Analysis/sum_stat/bondia_txts_by_year_pie.png)
+![alt text](../../Public/Public/figures/bondia_txts_by_year_pie.png)
 
 **24 Ora**
 
@@ -85,7 +85,7 @@ Further breakdown by source below.
 * 2018    2384
 * 2017     806
 
-![alt text](../../Analysis/sum_stat/24ora_txts_by_year_pie.png)
+![alt text](../../Public/Public/figures/24ora_txts_by_year_pie.png)
 
 **Wikipedia**
 
@@ -100,7 +100,7 @@ Further breakdown by source below.
 * 2011      5
 * 2012      2
 
-![alt text](../../Analysis/sum_stat/wiki_txts_by_year_pie.png)
+![alt text](../../Public/Public/figures/wiki_txts_by_year_pie.png)
 
 #### Contributions by author
 
@@ -117,8 +117,8 @@ Authorship of the various texts has been indicated by all sources, but authorshi
 * LMnsr               161
 * Tamara-Quevedo       11
 
-![alt text](../../Analysis/sum_stat/diario_txts_by_author_pie.png)
-![alt text](../../Analysis/sum_stat/diario_txts_by_year-author.png)
+![alt text](../../Public/Public/fugures/diario_txts_by_author_pie.png)
+![alt text](../../Public/Public/figures/diario_txts_by_year-author.png)
 
 **Bon Dia**
 
@@ -130,8 +130,8 @@ Authorship of the various texts has been indicated by all sources, but authorshi
 * Luis                 11
 * Nicola-Gonzalez       1
 
-![alt text](../../Analysis/sum_stat/bondia_txts_by_author_pie.png)
-![alt text](../../Analysis/sum_stat/bondia_txts_by_year-author.png)
+![alt text](../../Public/Public/figures/bondia_txts_by_author_pie.png)
+![alt text](../../Public/Public/figures/bondia_txts_by_year-author.png)
 
 **24 Ora**
 
@@ -147,8 +147,8 @@ Authorship of the various texts has been indicated by all sources, but authorshi
 * Mark-Benson         6
 * Nelson              1
 
-![alt text](../../Analysis/sum_stat/24ora_txts_by_author_pie.png)
-![alt text](../../Analysis/sum_stat/24ora_txts_by_year-author.png)
+![alt text](../../Public/Public/figures/24ora_txts_by_author_pie.png)
+![alt text](../../Public/Public/figures/24ora_txts_by_year-author.png)
 
 **Wikipedia**
 
@@ -364,7 +364,7 @@ Authorship of the various texts has been indicated by all sources, but authorshi
 * Varlaam                                      1
 * 99-238-225-110                               1
 
-![alt text](../../Analysis/sum_stat/wiki_txts_by_author_pie.png)
-![alt text](../../Analysis/sum_stat/wiki_txts_by_year-author.png)
+![alt text](../../Public/Public/figures/wiki_txts_by_author_pie.png)
+![alt text](../../Public/Public/figures/wiki_txts_by_year-author.png)
 
 
