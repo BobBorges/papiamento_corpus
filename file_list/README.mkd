@@ -5755,7 +5755,6 @@ The title, up to 20 characters is listed.
     * 24ora_2019-09-16_Jose_booshi-wever-un-sima.txt
     * 24ora_2019-09-16_Jose_jennifer-arends-reye.txt
     * 24ora_2019-09-16_Jose_mike-eman-pueblo-por.txt
-    * 24ora_2019-09-16_L_a-fayece-belinda-r-m.txt
     * 24ora_2019-09-16_L_resultado-di-sorteon.txt
     * 24ora_2019-09-16_Patrick_gobierno-a-honra-dan.txt
     * 24ora_2019-09-16_T_a-haya-varios-lifeve.txt
@@ -15731,7 +15730,6 @@ The title, up to 20 characters is listed.
     * D_2009-09-04_admin_e-momento-a-yega-pa-.txt
     * D_2009-09-04_admin_gloria-vega-y-fusion.txt
     * D_2009-09-04_admin_horticultura-cu-tecn.txt
-    * D_2009-09-04_admin_obituario-di-diamars.txt
     * D_2009-09-04_Redaccion-32_cumpleanos-di-diabie.txt
     * D_2009-09-04_Redaccion34_kiwanis-club-cla-pa-.txt
     * D_2009-09-05_admin_5-ana-pa-violacion-c.txt
@@ -15769,7 +15767,6 @@ The title, up to 20 characters is listed.
     * D_2009-09-08_admin_huez-no-a-kere-stori.txt
     * D_2009-09-08_admin_indra-stamper-tenant.txt
     * D_2009-09-08_admin_mike-eman-avp-a-prep.txt
-    * D_2009-09-08_admin_obituario-di-dialuna.txt
     * D_2009-09-08_admin_rec-no-kier-rac-mas-.txt
     * D_2009-09-08_admin_women’s-club-of-arub.txt
     * D_2009-09-08_Redaccion-32_cumpleanos-di-diamar.txt
@@ -15779,7 +15776,6 @@ The title, up to 20 characters is listed.
     * D_2009-09-09_admin_competencia-ta-sigui.txt
     * D_2009-09-09_admin_dos-curpa-bibo-tabat.txt
     * D_2009-09-09_admin_e-participantenan-di.txt
-    * D_2009-09-09_admin_obituario-di-diaranz.txt
     * D_2009-09-09_admin_resultadonan-di-fede.txt
     * D_2009-09-09_admin_tres-hende-sinta-den.txt
     * D_2009-09-09_Redaccion-32_cumpleanos-di-diaran.txt
@@ -15791,7 +15787,6 @@ The title, up to 20 characters is listed.
     * D_2009-09-10_admin_gobierno-a-pone-plac.txt
     * D_2009-09-10_admin_marisol-a-laga-tanki.txt
     * D_2009-09-10_admin_masterclass-na-unive.txt
-    * D_2009-09-10_admin_obituario-di-diahueb.txt
     * D_2009-09-10_admin_school-di-baile-pach.txt
     * D_2009-09-10_Redaccion-32_cumpleanos-di-diahue.txt
     * D_2009-09-11_admin_aruba-jrs-gerry’s-r-.txt
@@ -15801,21 +15796,18 @@ The title, up to 20 characters is listed.
     * D_2009-09-11_admin_diez-luna-di-castigo.txt
     * D_2009-09-11_admin_evento-grandi-intern.txt
     * D_2009-09-11_admin_muher-canades-a-cono.txt
-    * D_2009-09-11_admin_obituario-di-diabier.txt
     * D_2009-09-11_admin_segun-comunicado-di-.txt
     * D_2009-09-11_admin_torneo-di-bowling-de.txt
     * D_2009-09-11_admin_turbo-rotonde-a-habr.txt
     * D_2009-09-11_Redaccion-32_cumpleanos-di-diabie.txt
     * D_2009-09-12_admin_andy-lee-a-bishita-m.txt
     * D_2009-09-12_admin_celebridades-y-prens.txt
-    * D_2009-09-12_admin_obituario-di-diasabr.txt
     * D_2009-09-12_admin_resultado-di-vuelta-.txt
     * D_2009-09-12_admin_yiu-muher-cu-machete.txt
     * D_2009-09-12_Redaccion-32_cumpleanos-di-diasab.txt
     * D_2009-09-14_admin_dia-pa-prensa-di-aru.txt
     * D_2009-09-14_admin_dono-di-pit-bull-no-.txt
     * D_2009-09-14_admin_mecanico-a-resulta-d.txt
-    * D_2009-09-14_admin_obituario-di-dialuna.txt
     * D_2009-09-14_admin_san-nicolaas-braves-.txt
     * D_2009-09-15_admin_abuelito-gara-cu-bol.txt
     * D_2009-09-15_admin_awe-diario-ta-lanza-.txt
@@ -15824,7 +15816,6 @@ The title, up to 20 characters is listed.
     * D_2009-09-15_admin_casonan-penal-den-co.txt
     * D_2009-09-15_admin_edmond-croes-a-haya-.txt
     * D_2009-09-15_admin_mundo-no-to-caba-dia.txt
-    * D_2009-09-15_admin_obituario-di-diamars.txt
     * D_2009-09-15_admin_wally-warning-ta-e-a.txt
     * D_2009-09-15_admin_web-aruba-nv-a-duna-.txt
     * D_2009-09-15_Redaccion-32_cumpleanos-di-diamar.txt
@@ -15832,18 +15823,15 @@ The title, up to 20 characters is listed.
     * D_2009-09-16_admin_cbb-ta-spera-cu-auto.txt
     * D_2009-09-16_admin_ladronnan-ta-sigui-p.txt
     * D_2009-09-16_admin_mep-kier-deshaci-di-.txt
-    * D_2009-09-16_admin_obituario-di-diaranz.txt
     * D_2009-09-16_admin_resumen-di-weganan-d.txt
     * D_2009-09-16_Redaccion34_avp-no-por-discuti-r.txt
     * D_2009-09-16_Redaccion34_hulandesnan-europeo-.txt
     * D_2009-09-17_admin_entrante-21-di-septe.txt
     * D_2009-09-17_admin_huez-a-ordena-“solo-.txt
-    * D_2009-09-17_admin_obituario-di-diahueb.txt
     * D_2009-09-17_admin_varios-caso-proforma.txt
     * D_2009-09-17_Redaccion34_scarcedad-di-mas-of-.txt
     * D_2009-09-18_admin_cumpleanos-di-diahue.txt
     * D_2009-09-18_admin_hueza-dicidi-di-no-d.txt
-    * D_2009-09-18_admin_obituario-di-diabier.txt
     * D_2009-09-19_admin_3924.txt
     * D_2009-09-19_admin_dos-detencion-pa-fra.txt
     * D_2009-09-19_Redaccion34_ley-nobo-a-keda-cla-.txt
@@ -15855,36 +15843,29 @@ The title, up to 20 characters is listed.
     * D_2009-09-22_admin_air-ambulance-a-hiba.txt
     * D_2009-09-22_admin_juan-gomez-y-rhona-s.txt
     * D_2009-09-22_admin_nilo-swaen-a-confirm.txt
-    * D_2009-09-22_admin_obituario-di-diamars.txt
     * D_2009-09-22_Redaccion-32_cumpleanos-di-diamar.txt
     * D_2009-09-23_admin_la-fama-a-gana-depor.txt
-    * D_2009-09-23_admin_obituario-di-diaranz.txt
     * D_2009-09-23_admin_polis-a-bay-pa-traha.txt
     * D_2009-09-23_admin_upg-vs-independencia.txt
     * D_2009-09-23_Redaccion-32_cumpleanos-di-diaran.txt
     * D_2009-09-24_admin_castigo-condicional-.txt
     * D_2009-09-24_admin_docentenan-ta-perde-.txt
-    * D_2009-09-24_admin_obituario-di-diahueb.txt
     * D_2009-09-24_admin_women’s-club-celebra.txt
     * D_2009-09-24_Redaccion-32_cumpleanos-di-diahue.txt
     * D_2009-09-25_admin_boticanan-tabati-ala.txt
     * D_2009-09-25_admin_dono-di-4-cacho-lo-d.txt
     * D_2009-09-25_admin_edna-eckmeyer-a-krak.txt
     * D_2009-09-25_admin_gym-emiterio-“theo”-.txt
-    * D_2009-09-25_admin_obituario-di-diabier.txt
     * D_2009-09-25_Redaccion-32_cumpleanos-di-diabie.txt
     * D_2009-09-26_Redaccion-32_cumpleanos-di-diasab.txt
     * D_2009-09-28_admin_aruba-ta-cla-e-pa-be.txt
     * D_2009-09-28_admin_e-xenofobia-di-nel.txt
     * D_2009-09-28_admin_mep-ta-yora-cu-mater.txt
-    * D_2009-09-28_admin_obituario-di-dialuna.txt
     * D_2009-09-28_Redaccion-32_cumpleanos-di-dialun.txt
     * D_2009-09-29_admin_competencia-di-avion.txt
-    * D_2009-09-29_admin_obituario-di-diamars.txt
     * D_2009-09-29_Redaccion-32_cumpleanos-di-diamar.txt
     * D_2009-09-30_admin_eleccion-ta-tras-di-.txt
     * D_2009-09-30_admin_mas-ekipo-den-busked.txt
-    * D_2009-09-30_admin_obituario-di-diamars.txt
     * D_2009-09-30_admin_pdr-no-ta-contra-eli.txt
     * D_2009-09-30_admin_pius-x-school-campeo.txt
     * D_2009-09-30_admin_post-aruba-a-produci.txt
@@ -15892,17 +15873,14 @@ The title, up to 20 characters is listed.
     * D_2009-09-30_Redaccion-32_cumpleanos-di-diaran.txt
     * D_2009-10-01_admin_hoben-di-15-ana-a-co.txt
     * D_2009-10-01_admin_michelle-obama-a-fel.txt
-    * D_2009-10-01_admin_obituario-di-diaranz.txt
     * D_2009-10-01_Redaccion-32_cumpleanos-di-diahue.txt
     * D_2009-10-02_admin_50-ana-di-colegio-ar.txt
     * D_2009-10-02_admin_djis-pa-capricho-gob.txt
     * D_2009-10-02_admin_fiesta-di-halloween-.txt
-    * D_2009-10-02_admin_obituario-di-diabier.txt
     * D_2009-10-02_admin_resultado-di-fedevet.txt
     * D_2009-10-02_Redaccion-32_cumpleanos-di-diabie.txt
     * D_2009-10-03_admin_ex-campeon-mundial-d.txt
     * D_2009-10-03_admin_homber-a-wordo-geboe.txt
-    * D_2009-10-03_admin_obituario-di-diasabr.txt
     * D_2009-10-03_admin_pickup-para-riba-ter.txt
     * D_2009-10-03_Redaccion-32_cumpleanos-di-diasab.txt
     * D_2009-10-03_Redaccion-32_nomber-di-ministrona.txt
@@ -15911,21 +15889,16 @@ The title, up to 20 characters is listed.
     * D_2009-10-05_Redaccion-32_cumpleanos-di-dialun.txt
     * D_2009-10-06_admin_caso-di-ladronicia-d.txt
     * D_2009-10-06_admin_homber-cu-machete-de.txt
-    * D_2009-10-06_admin_obituario-di-diamars.txt
     * D_2009-10-06_admin_pa-loke-e-bal…mi-opi.txt
     * D_2009-10-06_Redaccion-32_cumpleanos-di-diamar.txt
     * D_2009-10-07_admin_exitoso-reto-di-duna.txt
-    * D_2009-10-07_admin_obituario-di-diaranz.txt
     * D_2009-10-07_admin_parlamento-nobo-lo-k.txt
     * D_2009-10-07_admin_si-mester-paga-divid.txt
     * D_2009-10-07_admin_si-tur-cos-bay-bon-e.txt
     * D_2009-10-07_Redaccion-32_cumpleanos-di-diaran.txt
     * D_2009-10-09_admin_cuatro-ladron-a-atac.txt
-    * D_2009-10-09_admin_obituario-di-diahueb.txt
-    * D_2009-10-10_admin_obituario-di-diasabr.txt
     * D_2009-10-12_admin_aruba-a-raspa-cu-var.txt
     * D_2009-10-12_admin_nel-den-oposicion.txt
-    * D_2009-10-12_admin_obituario-di-dialuna.txt
     * D_2009-10-14_admin_resumen-weganan-di-f.txt
     * D_2009-10-14_Redaccion-36_avioneta-priva-a-cay.txt
     * D_2009-10-14_Redaccion-36_carol-bruyning-ganad.txt
@@ -16244,7 +16217,6 @@ The title, up to 20 characters is listed.
     * D_2010-07-19_admin_the-kardashians-a-ca.txt
     * D_2010-07-20_admin_coriente-cu-ta-bin-d.txt
     * D_2010-07-20_admin_cumpleanos-diamars-2.txt
-    * D_2010-07-20_admin_obituario-diamars-20.txt
     * D_2010-07-23_admin_cumpleanos-diahuebs-.txt
     * D_2010-07-24_admin_hendrik-seferino-cro.txt
     * D_2010-07-24_admin_sistema-burocratico-.txt
