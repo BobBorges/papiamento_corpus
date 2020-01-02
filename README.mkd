@@ -33,6 +33,8 @@ This section presents counts of sentences and words in the corpus. Sentences are
 * Average number of words per sentence: 22.94740152562787
 * Average length of word: 3.8872515098061458
 
+Expanded description of word frequencies can be found [here](word_frequencies/README.mkd).
+
 #### Contributions by year and source
 
 Currently, the 28885 texts in the corpus have been sourced from the news sites 24ora.com, bondia.com (B), and diario.aw (D), as well as the Papiamento language Wikipedia page. A complete list of texts can be found [here](file_list/README.mkd).
