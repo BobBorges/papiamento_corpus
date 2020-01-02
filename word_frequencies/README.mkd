@@ -18,21 +18,21 @@ This section presents basic word frequencies in the corpus. The following table 
 
 There is a lot of variation in sentence length, but sentence length seems fairly stable across the souces.
 
-![alt text](../../../Public/Public/figures/sent_len.png)
+![alt text](../figures/sent_len.png)
 
 ## Average word length
 
 Word length is even more stable.
 
-![alt text](../../../Public/Public/figures/word_len.png)
+![alt text](../figures/word_len.png)
 
 ## Type token ratio
 
 Type token ratio is also fairly stable. It's potentially telling that Wikipedia, with the fewest nuber of sentences and words per text, also has the highest overal TTR.
 
-![alt text](../../../Public/Public/figures/ttr.png)
+![alt text](../figures/ttr.png)
 
-## Most Frequent words 
+## Most Frequent words
 
 The 50 most common tokens over the whole corpus and per source are presented below.
 
@@ -287,5 +287,5 @@ The 50 most common tokens over the whole corpus and per source are presented bel
 
 The distribution of repeat tokens is more-or-less as expected.
 
-![alt text](../../../Public/Public/figures/zipf.png)
+![alt text](../figures/zipf.png)
 
